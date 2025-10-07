@@ -6,7 +6,7 @@ function Home() {
   return (
     <div
       className="min-h-screen mb-4 bg-cover bg-center flex items-center w-full overfull-hidden"
-      style={{ backgroundImage: "url('/home_bg.jpg')" }}
+      style={{ backgroundImage: "url('/real-estate/home_bg.jpg')" }}
       id="Home"
     >
       <div className="inset-0 bg-black/30 backdrop:backdrop-blur-sm">
