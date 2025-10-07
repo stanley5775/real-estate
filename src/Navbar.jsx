@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { assets, projectsData } from "../src/assets";
+import { assets } from "../src/assets";
 
 const Navbar = () => {
   const [showMobileMenu, setShowMobileMenu] = useState(false);
@@ -18,7 +18,7 @@ const Navbar = () => {
     <div className="absolute top-0 left-0 w-full ">
       <div className="container mx-auto flex justify-between items-center py-4 px-6 md:px-20 lg:px-32 bg-transparent">
         <div className="flex gap-1 justify-center">
-          <img src={assets.logo} alt="logo" className="w-8 h-8 lg:w-7 lg:h-6 lg:mt-1" />
+          <img src={assets.logo_main} alt="logo" className="w-8 h-8 lg:w-7 lg:h-6 lg:mt-1" />
           <h1 className="text-blue-900 font-bold font-serif text-2xl text-center">
             K<span className="text-white">.</span>U
           </h1>

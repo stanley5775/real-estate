@@ -20,7 +20,7 @@ import arrow_right from "/img/arrow_right.svg";
 import stars from "/img/stars.jpg";
 
 const assets = {
-  logo: "/img/logo.jpg",
+  logo_main: logo,
   profile1: profile_img_1,
   profile2: profile_img_2,
   profile3: profile_img_3,

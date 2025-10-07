@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="w-full lg:w-1/3 mb-8 md:mb-0">
           <div className="flex gap-1">
             <img
-              src={assets.logo}
+              src={assets.logo_main}
               alt="logo"
               className="w-8 h-8 lg:w-7 lg:h-6 lg:mt-1"
             />
