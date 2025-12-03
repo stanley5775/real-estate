@@ -46,11 +46,24 @@ function About() {
               <p>Ongoing Projects</p>
             </div>
           </div>
-          <p className="my-10 max-w-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Consequuntur quos quam quis nihil tempora tenetur ad ipsam labore
-            quo. Quia reprehenderit ut ullam, ipsum architecto possimus eum
-            eaque deserunt quaerat?
+          <p className="my-4 max-w-lg">
+            At K-URCHTECH, we believe that finding your dream home should be a
+            smooth and rewarding experience.
+          </p>
+          <p className="my-4 max-w-lg">
+            With a team of dedicated professionals, we specialize in helping
+            clients buy, sell and invest in quality properties across prime
+            locations. Our mission is to connect people with homes that reflect
+            their lifestyle and aspirations.
+          </p>
+          <p className="my-4 max-w-lg">
+            From modern apartments to luxury estates, we offer trusted guidance
+            every step of the way, to ensuring transparency, reliability, and
+            Customer satisfaction.
+          </p>
+          <p className="my-4 max-w-lg">
+            At K-URCHTECH, your comfort is our priority, and your dream property
+            is our goal.
           </p>
           <button className="bg-blue-600 text-white px-8 py-2 rounded">
             Learn more

@@ -45,56 +45,56 @@ const assets = {
 const projectsData = [
   {
     title: "Skyline Haven",
-    price: "$3,50,000",
+    price: "$3,500,000",
     location: "California",
     image: project_img_05,
   },
 
   {
     title: "Vista Verde",
-    price: "$2,50,000",
+    price: "$2,650,000",
     location: "San Francisco",
     image: project_img_03,
   },
 
   {
     title: "Serenity Suites",
-    price: "$2,50,000",
+    price: "$2,550,000",
     location: "Chicago",
     image: project_img_04,
   },
 
   {
     title: "Woodside Road",
-    price: "$4,00,000",
+    price: "$4,000,000",
     location: "New Jersey",
     image: project_img_08,
   },
 
   {
     title: "Vintage & Specialty Wood",
-    price: "$2,50,000",
+    price: "$2,570,000",
     location: "San Francisco",
     image: project_img_10,
   },
 
   {
     title: "Contemporary Elengance",
-    price: "$2,50,000",
+    price: "$2,565,000",
     location: "Beverly Hills",
     image: project_img_07,
   },
 
   {
     title: "Sydeny Morning Herald",
-    price: "$1,50,000",
+    price: "$1,450,000",
     location: "San Francisco",
     image: project_img_09,
   },
 
   {
     title: "Pentagon",
-    price: "$2,50,000",
+    price: "$2,500,000",
     location: "Washington DC",
     image: project_img_01,
   },
@@ -112,20 +112,20 @@ const testimonilsData = [
 
   {
     name: "Richard Nelson",
-    title: "UI/UX Designer",
+    title: "Home Buyer",
     image: profile_img_2,
     alt: "Portrait of Richard Nelson",
     rating: 5,
-    text: "From the very first meeting, they understood my vision and help me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched.",
+    text: "Working with K-URCHTECH was the best decision i made while searching for my new home, The team was patient, professional, and always kept me updated, They helped me find a property that perfectly fits my family's needs -Highly recommend!",
   },
 
   {
     name: "James Washington",
-    title: "Co-Founder",
+    title: "Property Investor",
     image: profile_img_3,
     alt: "Portrait of James Washington",
     rating: 5,
-    text: "From the very first meeting, they understood my vision and help me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched.",
+    text: "I've worked with several real estate companies before, but K-URCHTECH stands out for their honesty and attention to details, They made the entire process smooth and stress-free, Their market knowledge is top-notch!",
   },
 ];
 

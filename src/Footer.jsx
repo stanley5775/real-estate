@@ -20,8 +20,8 @@ const Footer = () => {
             </h1>
           </div>
           <p className="text-gray-400 mt-4">
-            Lorem ipsum is simply dummy text of the printing and typesetting
-            industry. lorem ipsum has been the industry's standard dummy text.
+            At K-URCHTECH, we believe that finding your dream home should be a
+            smooth and rewarding experience.
           </p>
         </div>
         <div className="w-full lg:w-1/5 mb-8 md:mb-0">
@@ -37,13 +37,13 @@ const Footer = () => {
               Contact Us
             </a>
             <a href="#" className="hover:text-white">
-              Privacy policy
+              Privacy Policy
             </a>
           </ul>
         </div>
         <div className="w-full lg:w-1/3">
           <h3 className="text-white text-lg font-bold mb-4">
-            Sudscribe to our newsletter
+            Subscribe To Our Newsletter
           </h3>
           <p className="text-gray-400 mb-4 max-w-80">
             The latest news, articles, and resources, sent to your inbox weekly.
